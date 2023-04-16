@@ -1,0 +1,403 @@
+{
+  "maincatagory": [
+    {
+      "id": 0,
+      "name": "Male"
+    },
+    {
+      "name": "Girls",
+      "id": 3
+    },
+    {
+      "name": "Kids",
+      "id": 6
+    },
+    {
+      "name": "Others",
+      "id": 7
+    }
+  ],
+  "subcatagory": [
+    {
+      "id": 0,
+      "name": "Lower"
+    },
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Pants",
+      "id": 2
+    },
+    {
+      "name": "T-shirts",
+      "id": 3
+    },
+    {
+      "name": "Shirts",
+      "id": 4
+    }
+  ],
+  "brand": [
+    {
+      "id": 0,
+      "name": "Human Beigns"
+    },
+    {
+      "id": 1,
+      "name": "Addidas"
+    },
+    {
+      "name": "Nike",
+      "id": 2
+    },
+    {
+      "name": "Puma",
+      "id": 3
+    },
+    {
+      "id": 6,
+      "name": "H&M"
+    },
+    {
+      "name": "Gucci",
+      "id": 7
+    },
+    {
+      "name": "Signature",
+      "id": 8
+    },
+    {
+      "id": 10,
+      "name": "Sky Bags"
+    },
+    {
+      "name": "Zara",
+      "id": 11
+    }
+  ],
+  "product": [
+    {
+      "id": 4,
+      "name": "Kids Pent nike",
+      "maincategory": "Kids",
+      "subcategory": "Pants",
+      "brand": "Nike",
+      "color": "Green",
+      "size": "24",
+      "baseprice": "477",
+      "discount": "5",
+      "finalprice": 453,
+      "stock": "In Stock",
+      "pic1": "p6.jpg",
+      "pic2": "p7.jpg",
+      "pic3": "p8.jpg",
+      "pic4": "p9.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Female T-shirts Human Beings",
+      "maincategory": "Girls",
+      "subcategory": "T-shirts",
+      "brand": "Human Beigns",
+      "color": "Green",
+      "size": "M",
+      "baseprice": "799",
+      "discount": "3",
+      "finalprice": 775,
+      "stock": "In Stock",
+      "pic1": "p8.jpg",
+      "pic2": "p19.jpg",
+      "pic3": "p23.jpg",
+      "pic4": "p28.jpg"
+    },
+    {
+      "name": "Male T-shirt Puma",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Puma",
+      "color": "Red",
+      "size": "36",
+      "baseprice": "677",
+      "discount": "3",
+      "finalprice": 656,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p15.jpg",
+      "pic2": "p10.jpg",
+      "pic3": "p16.jpg",
+      "pic4": "p24.jpg",
+      "id": 6
+    },
+    {
+      "name": "Female Lower Nike",
+      "maincategory": "Girls",
+      "subcategory": "Lower",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "36",
+      "baseprice": "799",
+      "discount": "4",
+      "finalprice": 767,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p6.jpg",
+      "pic2": "p19.jpg",
+      "pic3": "p9.jpg",
+      "pic4": "p6.jpg",
+      "id": 7
+    },
+    {
+      "name": "Kids Pent ",
+      "maincategory": "Kids",
+      "subcategory": "Pants",
+      "brand": "Mucchi",
+      "color": "Light Grey",
+      "size": "24",
+      "baseprice": "899",
+      "discount": "15",
+      "finalprice": 764,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p62.jpg",
+      "pic2": "p43.jpg",
+      "pic3": "p63.jpg",
+      "pic4": "p64.jpg",
+      "id": 8
+    },
+    {
+      "name": "H&M",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "H&M",
+      "color": "Light blue",
+      "size": "L",
+      "baseprice": "5000",
+      "discount": "20",
+      "finalprice": 4000,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p3.jpg",
+      "pic2": "p15.jpg",
+      "pic3": "p10.jpg",
+      "pic4": "p24.jpg",
+      "id": 9
+    },
+    {
+      "name": "Human Beigns Tshirt",
+      "maincategory": "Girls",
+      "subcategory": "T-shirts",
+      "brand": "Human Beigns",
+      "color": "Red",
+      "size": "XL",
+      "baseprice": "600",
+      "discount": "10",
+      "finalprice": 540,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p6.jpg",
+      "pic2": "p8.jpg",
+      "pic3": "p9.jpg",
+      "pic4": "p19.jpg",
+      "id": 10
+    },
+    {
+      "name": "Kids Lower",
+      "maincategory": "Kids",
+      "subcategory": "Lower",
+      "brand": "Puma",
+      "color": "Red",
+      "size": "M",
+      "baseprice": "8000",
+      "discount": "16",
+      "finalprice": 6720,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p66.jpg",
+      "pic2": "p48.jpg",
+      "pic3": "p65.jpg",
+      "pic4": "p11.jpg",
+      "id": 11
+    },
+    {
+      "name": "Male Jeans ",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Human Beigns",
+      "color": "Blue",
+      "size": "M",
+      "baseprice": "4000",
+      "discount": "15",
+      "finalprice": 3400,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p7.jpg",
+      "pic2": "p11.jpg",
+      "pic3": "p16.jpg",
+      "pic4": "p50.jpg",
+      "id": 12
+    },
+    {
+      "name": "Female Lower Nike",
+      "maincategory": "Girls",
+      "subcategory": "Lower",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "L",
+      "baseprice": "500",
+      "discount": "10",
+      "finalprice": 450,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p6.jpg",
+      "pic2": "p7.jpg",
+      "pic3": "p9.jpg",
+      "pic4": "p12.jpg",
+      "id": 13
+    },
+    {
+      "name": "Kids Tshirt Zara",
+      "maincategory": "Kids",
+      "subcategory": "T-shirts",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "L",
+      "baseprice": "2000",
+      "discount": "20",
+      "finalprice": 1600,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p67.jpg",
+      "pic2": "p65.jpg",
+      "pic3": "p68.jpg",
+      "pic4": "p66.jpg",
+      "id": 14
+    },
+    {
+      "name": "Male Tshirt ",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Addidas",
+      "color": "Blue",
+      "size": "M",
+      "baseprice": "2000",
+      "discount": "23",
+      "finalprice": 1540,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p21.jpg",
+      "pic2": "p24.jpg",
+      "pic3": "p15.jpg",
+      "pic4": "p10.jpg",
+      "id": 15
+    },
+    {
+      "name": "Female Lower H&M",
+      "maincategory": "Girls",
+      "subcategory": "Lower",
+      "brand": "H&M",
+      "color": "Red",
+      "size": "M",
+      "baseprice": "2000",
+      "discount": "11",
+      "finalprice": 1780,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p7.jpg",
+      "pic2": "p6.jpg",
+      "pic3": "p50.jpg",
+      "pic4": "p9.jpg",
+      "id": 16
+    },
+    {
+      "name": "Kids Lower",
+      "maincategory": "Kids",
+      "subcategory": "Lower",
+      "brand": "H&M",
+      "color": "Cyan",
+      "size": "L",
+      "baseprice": "2001",
+      "discount": "10",
+      "finalprice": 1800,
+      "stock": "In Stock",
+      "description": "This is Sample Discription",
+      "pic1": "p43.jpg",
+      "pic2": "p47.jpg",
+      "pic3": "p9.jpg",
+      "pic4": "p11.jpg",
+      "id": 17
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+ 
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Ankit",
+      "username": "ankit571",
+      "email": "ankit@123",
+      "phone": "9079650745",
+      "password": "123",
+      "address1": "F-14",
+      "address2": "Sector 27",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "pic": "bg_1.jpg",
+      "role": "user"
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 17,
+      "userid": "1",
+      "name": "Kids Lower",
+      "color": "Cyan",
+      "size": "L",
+      "price": 1800,
+      "qty": 2,
+      "total": 3600,
+      "pic": "p43.jpg",
+      "id": 1
+    },
+    {
+      "productid": 13,
+      "userid": "1",
+      "name": "Female Lower Nike",
+      "color": "Black",
+      "size": "L",
+      "price": 450,
+      "qty": 2,
+      "total": 900,
+      "pic": "p6.jpg",
+      "id": 3
+    },
+    {
+      "productid": 15,
+      "userid": "1",
+      "name": "Male Tshirt ",
+      "color": "Blue",
+      "size": "M",
+      "price": 1540,
+      "qty": 1,
+      "total": 1540,
+      "pic": "p21.jpg",
+      "id": 4
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    }
+  ]
+}
